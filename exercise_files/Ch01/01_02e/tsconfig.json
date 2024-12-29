@@ -1,8 +1,7 @@
 {
     "compilerOptions": {
-        "outDir": "build",
-        "target": "esnext",
-        "noEmit": true
+        "target": "ESNext",
+        "outDir": "build"
     },
     "include": ["src/**/*"]
 }
